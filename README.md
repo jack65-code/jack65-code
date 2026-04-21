@@ -1,50 +1,48 @@
-# 👋 Hi, I'm Jack Developer  
+# 👋 Hi, I'm Jack Developer
 
-### 🚀 Welcome to my GitHub Profile  
-I'm **Jack Developer**, passionate about coding, building projects, and learning new technologies.  
-
----
-
-## 👨‍💻 About Me  
-- 💻 Developer with interest in Web & App Development  
-- 🌱 Currently learning and improving my skills  
-- ⚡ Love creating simple and useful projects  
-- 🎯 Goal: Become a professional software developer  
+💻 **Frontend Developer** | Passionate about building modern, responsive, and user-friendly web applications.
 
 ---
 
-## 🔗 Connect with Me  
-- 🐙 GitHub: https://github.com/jack65-code  
+## 🚀 About Me
+- 🌐 Specialized in **Frontend Development**
+- 🎯 Focused on creating clean UI & smooth UX
+- ⚡ Love working with modern web technologies
+- 📚 Always learning and improving my skills
 
 ---
 
-## 🛠️ Skills  
-- HTML  
-- CSS  
-- JavaScript  
-- Basic Programming Concepts  
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** Bootstrap, jQuery  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📌 Projects  
-Here are some of my projects:  
-- 🔹 Coming Soon...  
+## 🎨 What I Do
+- Responsive Website Design 📱💻  
+- UI/UX Development 🎯  
+- Landing Pages & Web Apps 🚀  
 
 ---
 
-## 📊 GitHub Stats  
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack65-code&show_icons=true&theme=tokyonight)
+## 📌 Projects
+Here are some of my featured projects:
+
+- 🔹 Project 1 – Modern Responsive Website  
+- 🔹 Project 2 – JavaScript Web App  
+- 🔹 Project 3 – Bootstrap UI Design  
 
 ---
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=jack65-code&theme=tokyonight)
+## 📫 Connect With Me
+- GitHub: https://github.com/jack-developer  
 
 ---
 
-## ✨ Quote  
-> "Code, Learn, Build, Repeat."
+## ⚡ Fun Fact
+I enjoy turning ideas into reality through code and design!
 
 ---
 
-⭐ Don't forget to follow me and check out my repositories!
+⭐ *Feel free to check out my repositories and give them a star!*
